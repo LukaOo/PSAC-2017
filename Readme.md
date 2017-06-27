@@ -8,3 +8,4 @@
 [Human3.6m](http://vision.imar.ro/human3.6m/description.php) | 3.6 million 3D human poses and corresponding images
 [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/) | The dataset includes around 25K images containing over 40K people with annotated body joints
 [Leeds Sports Pose (LSP) Dataset](http://www.comp.leeds.ac.uk/mat4saj/lsp.html) | This dataset contains 2000 pose annotated images of mostly sports
+[OpenNI](http://www.openni.ru/index.html) | The OpenNI framework is an open source SDK used for the development of 3D sensing middleware libraries and applications.
