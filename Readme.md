@@ -12,3 +12,5 @@
 [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/) | The dataset includes around 25K images containing over 40K people with annotated body joints
 [Leeds Sports Pose (LSP) Dataset](http://www.comp.leeds.ac.uk/mat4saj/lsp.html) | This dataset contains 2000 pose annotated images of mostly sports
 [OpenNI](http://www.openni.ru/index.html) | The OpenNI framework is an open source SDK used for the development of 3D sensing middleware libraries and applications.
+[Blender 3D](https://www.blender.org/) | Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
+[Forum about creation human 3D moddeling](http://render.ru/xen/threads/parametricheskaja-model-cheloveka.147168/) | Rus discussion abount creation 3D moddeling of human
