@@ -15,3 +15,4 @@
 [OpenNI](http://www.openni.ru/index.html) | The OpenNI framework is an open source SDK used for the development of 3D sensing middleware libraries and applications.
 [Blender 3D](https://www.blender.org/) | Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 [Forum about creation human 3D moddeling](http://render.ru/xen/threads/parametricheskaja-model-cheloveka.147168/) | Rus discussion abount creation 3D moddeling of human
+[CAESAR](http://store.sae.org/caesar/) | The most comprehensive source for body measurement data
