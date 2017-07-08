@@ -9,6 +9,7 @@
 [Learning from Synthetic Humans (paper)](https://arxiv.org/pdf/1701.01370.pdf) |  Howto generate additional dataset. Gets additional boost when train "Stacked Hourglass"
 [Learning from Synthetic Humans](http://www.di.ens.fr/willow/research/surreal/) | Project page: code & data
 [MILLIMETER-WAVE SCENE SIMULATION USING BLENDER (paper)](https://www.researchgate.net/publication/267380917_MILLIMETER-WAVE_SCENE_SIMULATION_USING_BLENDER) | A MMW scene simulator can be key tool to assess the performance of a MMW imaging system
+[ML SMPL](http://smpl.is.tue.mpg.de/) | A Skinned Multi-Person Linear Model
 [Human3.6m](http://vision.imar.ro/human3.6m/description.php) | 3.6 million 3D human poses and corresponding images
 [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/) | The dataset includes around 25K images containing over 40K people with annotated body joints
 [Leeds Sports Pose (LSP) Dataset](http://www.comp.leeds.ac.uk/mat4saj/lsp.html) | This dataset contains 2000 pose annotated images of mostly sports
